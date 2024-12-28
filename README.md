@@ -1,0 +1,1 @@
+A deep learning pipeline for diabetic retinopathy classification using Gaussian-filtered retinal images. The project leverages EfficientNetB3 as the backbone for feature extraction and includes advanced data augmentation and transfer learning techniques for improved model performance.
